@@ -2,7 +2,7 @@
 
 ## Atividade MongoDB
 
-### Repositório para Anexo referente a Banco de Dados não relacional 
+### Repositório para anexo de atividades referentes a Banco de Dados não relacional 
 
 Comando: show dbs <br>
 Função: Mostra todos os Bancos de Dados criados no MongoDB 
